@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadun Sameera</h1>
-<h3 align="center">Full-stack Developer | Mobile App development</h3>
+<h3 align="center">Full-stack Developer | Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadun24&label=Profile%20views&color=0e75b6&style=flat" alt="nadun24" /> </p>
 
