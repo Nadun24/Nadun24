@@ -24,14 +24,11 @@
 
 ---
 
-### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+
+## 🛠️ Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,c,cpp,html,css,bootstrap,react,next,nodejs,nest,express,flask,laravel,mysql,mongodb,firebase,aws,gcp,docker,git,linux,figma,wordpress,tensorflow" />
 </p>
 
 ---
