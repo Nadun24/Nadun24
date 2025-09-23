@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,c,cpp,html,css,bootstrap,react,next,nodejs,nest,express,flask,laravel,mysql,mongodb,firebase,aws,gcp,docker,git,linux,figma,wordpress,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,html,css,bootstrap,react,next,nodejs,laravel,mysql,mongodb,firebase,docker,git," />
 </p>
 
 ---
