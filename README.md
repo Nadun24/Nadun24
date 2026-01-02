@@ -30,6 +30,8 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Nadun24/Nadun24/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 ## 🛠️ Tech Stack  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,dart,html,css,bootstrap,react,next,nodejs,laravel,mysql,mongodb,firebase,docker,git," />
